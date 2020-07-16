@@ -19,20 +19,18 @@ Current Timeslot:
 [(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=N@306E,105S](https://www.cryptovoxels.com/play?coords=N@306E,105S)
 
 
-
-
-
-# HACKFS 2020 - FORMATION PHASE
+# HACKFS 2020
  
 # PROJECT: Linchpin
-# 
-#### DESCRIPTION: Bridging IPFS and Ethereum using PowerGate, FileCoin, Buckets, libp2p, 3Box and ENS domains, Fleek and Pinata presented in the CryptoVoxel metaverse. Unlock provides novel solidity schemas of permissions which may be added to, or renounced by a user.
+ 
+#### Bridging IPFS and Ethereum using PowerGate, FileCoin, Buckets, Unlock, libp2p, 3Box, ENS domains, Fleek and Pinata presented in the CryptoVoxel metaverse. 
 
-## Buckets or Threads? Served Hot or Cold? Naked or Cloaked? Content Restricted or Open Gateway? 
+# Buckets or Threads? Served Hot or Cold? Naked or Cloaked? Content Restricted or Open Gateway? 
 
-### Public Data vs Encrypted Private Data poses a myriad of questions regarding content subject matter and privacy concerns. Each use-case user and miner will have to make market decisions.
+- Evaluating Public Data vs Encrypted Data poses a myriad of questions regarding content subject matter and privacy concerns. IPFS through buckets and PowerGate allow for specified transport channels that conform to both geographic and contents specific storage.  Additionally, Each use-case, requires the user, and miner to make market based decisions to either pin content for free in hopes it remains, or pay for redundancy and longevity of the content.
+![](https://i.imgur.com/GUCBZBb.png)
 
-- The network is hard drives and ram.  Hot and cold storage and a payment layer for storage negotiation
+- The IPFS network basically is a function of hard drives and ram.  Hot and cold storage and a payment layer for storage negotiation.
 
    -[]  Is IPFS a superior solution to Ethereum or a valuable complement to it?
 
@@ -50,7 +48,8 @@ Current Timeslot:
 
    -[]  Bridging will need to take place on ethereum or otherchains because IPFS/FileCoin needs to release with core component and let the rest follow.  see: exaples here https://github.com/filecoin-project/specs-actors/blob/master/actors/builtin/multisig/multisig_actor.go https://github.com/filecoin-project/specs-actors/tree/master/actors/builtin/paych https://github.com/filecoin-project/specs-actors/blob/master/actors/builtin/account/account_actor.go 
 
-   -[]  The CID is the Linchpin
+## The CID is the Linchpin
+![](https://i.imgur.com/Ep2NBfw.jpg)
 
    -[]  A CID is a self-describing content-addressed identifier for distributed systems. 
 
@@ -68,9 +67,10 @@ Current Timeslot:
 
 ### Considerations in submitting a project to HackFS - The Sponsors
 
-   -[]  Sponsors include Protocol Labs/IPFS Filecoin Consensys ENS MetaMask Inura Textile 3Box Fleek Pinata Biconomy Unlock
+   -[]  Sponsors include **Protocol Labs/IPFS Filecoin Consensys ENS MetaMask Inura Textile 3Box Fleek Pinata and Unlock**
+    ![](https://i.imgur.com/jfYZghz.png)
 
-   -[]  Fist let’s consider the sponsors objectives. Do Protocol Labs and Consensys objectives align with ours? If not, a new strategy is in order. If they do, it in imparative to present a solution that they will see value from their own points of view.  For example, Tachyon by Consensys, is a  global network of experts and advisors who invest in core blockchain development and help guide founders in building validated, market-ready Web 3.0 businesses. So what is their interest in the HackFS> It is to find an idea to incubate it and the exploit it to maximize the profits just like any other for profit business.
+   -[]  First let’s consider the sponsors objectives. Do Protocol Labs and Consensys objectives align with ours? If not, a new strategy is in order. If they do, it in imparative to present a solution that they will see value from their own points of view.  For example, Tachyon by Consensys, is a  global network of experts and advisors who invest in core blockchain development and help guide founders in building validated, market-ready Web 3.0 businesses. So what is their interest in the HackFS> It is to find an idea to incubate it and the exploit it to maximize the profits just like any other for profit business.
 
    -[]  Venture capital firms often struggle to find top talent for innovative products to invest in and sometimes when they do, the turn and limit their autonomy thus creating a vicious cycle. Firms that do not successfully address the autonomy-control challenge are bound to face difficulties in attracting and retaining the most creative workforce. These strategies can help break this cycle by diligently setting the stage of hackathons instead of micromanaging the innovations.
 
@@ -80,9 +80,10 @@ Current Timeslot:
 
    -[]  Successful hackathon organizers promote new ideas by removing themselves from providing feedback and creating a safe environment in which new ideas receive very early peer-to-peer feedback. This is done, in many hackathons, in the form of a first ideas kickoff session. A kickoff allows participants to be “on stage” presenting, articulating, and elaborating on the initial ideas they have in mind to solve their challenge.
 
-   -[]  We also wanted to highlight some of personal projects by adding them into the submission and demonstration and presentation. These include NFT42, InfiNFT, MachiX, MetaFactory, X5Engine, Web3vm and LexDAO.
+   -[]  We also wanted to highlight some of personal projects by adding them into the submission and demonstration and presentation. These include **NFT42, InfiNFT, MachiX, MetaFactory, X5Engine, Web3vm and LexDAO**.
 
 ### Our main focus is the NFT space.
+![](https://i.imgur.com/TujJIpN.png)
 
    -[]  We are going to deliver these application in a foorm of a digital vending machine a Web3 Vending Machine (Web3vm); one that provide self-served smart-contracts, ones that serve simple, but important tools of a decentralized web.
 
@@ -92,26 +93,27 @@ Current Timeslot:
 
    -[]  This is the reaon we selected CryptoVoxels to be the stage for our team’s HackFS submission, demostration and presentation.  Enjoy project linchpin, the bridging of IPFS and Ethereum with Filecoin and using local syndicates ring-nodes running on libp2p technologies.
 
- |NFT Use Cases | Other Cases B |
+ |NFT Use Cases | Other Use Cases |
  | -------- | -------- |
  | NFT for art on IPFS + Textile + Filecoin. | Patient controlled medical record platform |
  | NFT to provide ownership of a file.   | Business Files and Records  | 
  | Audio, Video and other Digital File Storage  | Digital Evidence for Courts | 
- | Personal and Personnel Files  | Wills and Trusts | 
+ | Personnel Files  | Wills and Trusts | 
+![](https://i.imgur.com/lsEHrSW.png)
  
 
 ## PRESENTATION CORE CONTENT
 
-   -[]  Our presentation today starts flat and becomes more complex later with the implementation of buckets from textile, filecoin from protocol labs, and local-ring and routing using libp2p, pinata and fleek for post redundancy. 
+   -[]  Our presentation today starts flat and becomes more complex later with the implementation of buckets from textile, filecoin from protocol labs, and local-ring and routing using libp2p, Pinata and Fleek for post redundancy. 
 
    -[]  We will run our presentation in CryptoVoxles to demonstrate how common Ethereum and IPFS transaction happen in the metaverse.
 
-   -[]  Native Meta Transactions Remove dependency on msg.sender and msg.value from smart contracts
+   -[]  Native Web3 meta transactions Remove dependency on `msg.sender` and `msg.value` from smart contracts
 
    -[]  To perform meta-transactions, a user needs to sign a message. After a user signs it, DApp sends the message to a relayer who sends that message into an actual transaction to a public node so the transaction can be mined.
 
    -[]  Bare bones application that runs run a simple piece of javascript for trying some different retrieval strategies to their local ring or client. The user downloads a piece of code that is just a javascript where the user picks a strategy that works best for their content delivery needs. And that allows lots of people to make lots of dynamic decisions for a content delivery network. 
-
+![](https://i.imgur.com/K0Y8jA0.png)
 ## FileCoin
 
    -[]  IPFS has no incentivized storage layer, Filecoin is incentivized storage. And Powergate provides a bridge
@@ -119,14 +121,17 @@ Current Timeslot:
    -[]  Push config corresponding to CID for persistence of data on Filecoin (cold upload)
 
    -[]  Users perform Create, Read, Update, Delete (CRUD) operations such as adding files, opening files and managing the encrypted buckets in which the files reside. Each action is can utilize client-side encryption and storing the files privately. The files are stored locally on the users local node and will not we shared outside the local network unless a router port is opened.
+![](https://i.imgur.com/0WSztXq.jpg)
 
    -[]  The cost of content delivery storage is outpacing the cost of content storage so over time. Moving the content becomes the higher cost overtime because storage capacity in disks is outpacing the cost of delivering over cabels and wirelss infrastructure. This will result in people amassing large amounts of data they control and also take advantage of providing low cost storage for others that need it.
 
    -[]  Filecoin offers Contract Based Accounts upgradable Contract Wallets are created for each user which acts as a proxy contract and all the filecoin transactions are routed via a Contract Wallet. User needs to store all tokens and funds in this Contract Wallet.
+![](https://i.imgur.com/gBFClOP.png)
 
 ## PowerGate
 
    -[]  Filecoin network interaction for file storage and retrieval market.
+![](https://i.imgur.com/bkuWaup.png)
 
    -[]  IPFS has no incentivized storage layer, Filecoin is incentivized storage. And Powergate provides a bridge
 
@@ -136,9 +141,10 @@ Current Timeslot:
 
    -[]  PowerGate responds to Actors: account, cron, exported, init, market, miner, multisig, paych, power, reward, system, verifreg (https://github.com/filecoin-project/specs-actors)
 
-   -[]  PowerGate provides the client a connection to the service API at a hardcoded default address /ip4/0.0.0.0/tcp/5002 in the code block. Once the client is created, `client.FFS.Create()` does the job of creating an FFS instance and returning the `ffsID` and the `ffsToken`.
+   -[]  PowerGate provides the client a connection to the service API at a hardcoded default address `/ip4/0.0.0.0/tcp/5002` in the code block. Once the client is created, `client.FFS.Create()` does the job of creating an FFS instance and returning the `ffsID` and the `ffsToken`.
 
 ## Buckets
+![](https://i.imgur.com/tN3MNZA.png)
 
    -[]  Fleek on top of Textile Threads and Buckets on top of IPFS
 
@@ -165,6 +171,7 @@ Current Timeslot:
    -[]  Virtual Artist Spaces -- make a hangout spot in cryptovoxels for artists to hang out create and mint art for in-game galleries and art shows
 
    -[]  For our presentation and demonstrations, we use a few very simple databases; ones that are easy to understand.
+![](https://i.imgur.com/0dDF8yE.png)
 
    -[]  3 columns each, and index number a source name and the ipfs hash of the content.
 
@@ -172,18 +179,12 @@ Current Timeslot:
 
    -[]  We want the dApp to operate without downloading any external wallets, plugins or having to purchase any crypto currency from an exchange. This is possible using the concept of meta transactions where user is able to do a transaction on blockchain with zero balance account and any third party can pay for the transaction fees for the user. CHI token, Swag0x onboarding, Web3vm bootstrap. And there is also Wyre if users want to get started with a debit card.
 
-   -[]  Visualizer and dashboards with Filscan.io Filplorer.com Filscout.io (Fleek fork)
 
-   -[]  We could benefit from a folder-like management system built on IPFS.
-
-   -[]  A database superimposed in a CryptoVoxel parcel as a live animation and video event.
-
-   -[]  Smart contracts on ethereum that call content on Filecoin (Like OpenSea and NFTs)
-
-   -[]  Mini-Applications that pass content through ipfs hot (Web3vm)
-
-   -[]  Convert any Textile Thread address into a webhook
-
+ |UI Design Options | UI Design Options |
+ | Visualizer like Filscan.io Filplorer.com Filscout.io | A folder-like management system and dashboard |
+ | Superimposed datastructures in a CryptoVoxel parcel as live animations or video. | Smart contracts on ethereum that call content on Filecoin (Like OpenSea and NFTs) |
+ | Mini-applications that pass content through ipfs hot (Web3vm)  | Convert any Textile Thread address into a webhook  | 
+ 
 ## DEMO ONE - IPFS STANDARD USES
 
    -[]  Another simple example example of an IPFS to Ethereum brigde is the storing and interacting with business and documents that require permanent and reliable storage. Many government and business forms do not require encryption because they are in intended for public use.
@@ -191,7 +192,7 @@ Current Timeslot:
    -[]  Pull any Smart Contracts from OpenLaw and WorldLaw (Smart Contract and ABI stored in Buckets with underlying content)
 
    -[]  We use sample lease agreement, but any type of form will do. Initial the document it is represented in a represent it as a pdf file stored locally on a computer or device, but it can be a text document, spreadsheet or any type of file.
-
+![](https://i.imgur.com/sDqyCIZ.jpg)
    -[]  First you take the local file (one on your computer) and send it to IPFS to get the return hash. Then you pass that hash along to one of the nodes that is probably hosting that content. Here we use the IPFS gateway and the Infura gateway, and we can easily usae ARWEAVE and Pinata as additional pinning protocols
 
    -[]  Introduction to CryptoVoxels metaverse using IPFS and Ethereum
@@ -203,6 +204,7 @@ Current Timeslot:
    -[]  The Ethereum Name Service (ENS) is a powerful feature of Ethereum and operates as an independent entity. ENS allow for content hashes in IPFS to be referenced in the domains records.  We use the domain `sixfinney.eth` as an example. We find this a simple starting point  to bridge betweeen IPFS and Ethereum
 
    -[]  ENS templates/uploaders also persist websites with Filecoin (ex using same Ethereum wallet?)
+![](https://i.imgur.com/zmRErF4.png)
 
    -[]  Query the web3 address and return ENS characteristics in CV
 
@@ -217,6 +219,7 @@ Current Timeslot:
 ## PART TWO - NON-FUNGIBLE TOKENS IN CRYPTOVOXELS AND PERMISSIONED EVENTS
 
    -[]  Straight NFTs vs MaxNFTs
+![](https://i.imgur.com/vd7yuhw.png)
 
    -[]  Build `transloadit` for personal photo collections -- purely API based backend for resampling, sorting, storing. Using ipfs, no locking, open formats. Then invite developers to build any kind of gallery/user interfaces they want on top.
 
@@ -229,6 +232,7 @@ Current Timeslot:
    -[]  Limited edition records and brands -- Brand Devlopement tracking assests by maxNFT - MetaFactory
 
    -[]  Private curated art gallery tours in CryptoVoxels where all assests are derved from CID’s in buckets negotiated through PowerGate and FileCoin (Junkyard Tour in CryptoVoxels)
+![](https://i.imgur.com/9kzbXjP.png)
 
    -[]  Limited edition NFT tokens with encrypted data that is unlocked by IPFS files and content is delived thorugh automated functions on smart-contract in Ethereum, Once the services are rendered the user keepsthe NFT as a souvenir.
 
@@ -249,6 +253,7 @@ Current Timeslot:
    -[]  Allow a storage miner to “follow” a collaborative cluster. Syndicates use FileCoin wallet associated with a collaborative cluster to pay the storage miner.
 
 ### Collaborative Clusters
+![](https://i.imgur.com/MCmYVeG.jpg)
 
    -[]  Content Discovery on Local Area Networks and Private Networks
 
@@ -259,6 +264,7 @@ Current Timeslot:
    -[]  DHT access visualization. Visualize how dht queries work and how they access nodes in the network
 
 # SOME TEAM ACTIONS TO GET STARTED
+![](https://i.imgur.com/GjU9rlZ.png)
 
 ## Syndicate of a Local Node Ring
 
@@ -291,6 +297,7 @@ Current Timeslot:
    -[]  Devlop a solution and protocol using NodeRed.
 
    -[]  Run Tests on QUICKBEAMS Web3 accounts (Qfinney.eth, Ufinney.eth … Mfinney.eth, Sfinney.eth)
+![](https://i.imgur.com/jxC1672.png)
 
 ## CODE EXAMPLES
 
@@ -299,6 +306,9 @@ Current Timeslot:
  `async function getTrackContent(cid) {     const audioBytes = await pow.ffs.get(cid);     const audioBuffer = audioBytes.buffer;     var blobOpts = { 'type' : 'audio/wav; codecs=0' };     if (MediaRecorder.isTypeSupported("audio/wav;codecs=MS_PCM")) {         blobOpts = { 'type' : 'audio/wav; codecs=MS_PCM' };     }     const blob = new Blob([audioBuffer], blobOpts);     const url = URL.createObjectURL(blob);     return url; }`  pow.ffs.get() tries to first retrieve the content corresponding to the CID from IPFS cache and if unavailable, gets the content from Filecoin after a confirgurable timeout.
  
  // watch the FFS job status to see the storage process progressing `const cancel = pow.ffs.watchJobs((job) => {   if (job.status === ffs.JobStatus.CANCELED) {     console.log("job canceled")   } else if (job.status === ffs.JobStatus.FAILED) {     console.log("job failed")   } else if (job.status === ffs.JobStatus.SUCCESS) {     console.log("job success!")   } }, jobId)`
+
+![](https://i.imgur.com/tb39ECJ.png)
+
 
     
 ## Notes
@@ -317,13 +327,6 @@ Current Timeslot:
 
 
 
-
-
-
-
-
-
-
 ==============================
 TEMPLATE BELOW DO NOT REMOVE
 
@@ -335,13 +338,6 @@ TEMPLATE BELOW DO NOT REMOVE
 - abs
 - abs
 - abs
-
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 
 
