@@ -1,7 +1,7 @@
 tags: Project HackFS-linchpin : Working Group Notes
 
 
-# Open Developer Call - 07/15/2020
+# Open Developer Call - 07/16/2020
 
 ## Info:
 
