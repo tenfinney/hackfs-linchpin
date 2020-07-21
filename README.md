@@ -10,9 +10,7 @@ Current Timeslot:
 11:00 AM - 1:00 PM EST
 8:00 AM - 10:00 AM PST 
 
-[(Base code for iteration)] [https://rinkeby.etherscan.io/address/0x52ea79e8c69652f1ce1b0e3c1e5188966782dd88#code](https://rinkeby.etherscan.io/address/0x52ea79e8c69652f1ce1b0e3c1e5188966782dd88#code)
 
-[(Base code for iteration - comments removed )] [https://ipfs.infura.io/ipfs/QmcFdfzkd3aYtzeCjrsKDZUHTYPttPrkWvyNMycBaLUm72](https://ipfs.infura.io/ipfs/QmcFdfzkd3aYtzeCjrsKDZUHTYPttPrkWvyNMycBaLUm72)
 
 [(Location Video/Screenshare:)] [https://us02web.zoom.us/j/6966768498](https://us02web.zoom.us/j/6966768498)
 
@@ -80,12 +78,12 @@ Current Timeslot:
 
    -[]  Successful hackathon organizers promote new ideas by removing themselves from providing feedback and creating a safe environment in which new ideas receive very early peer-to-peer feedback. This is done, in many hackathons, in the form of a first ideas kickoff session. A kickoff allows participants to be “on stage” presenting, articulating, and elaborating on the initial ideas they have in mind to solve their challenge.
 
-   -[]  We also wanted to highlight some of personal projects by adding them into the submission and demonstration and presentation. These include **NFT42, InfiNFT, MachiX, MetaFactory, X5Engine, Web3vm and LexDAO**.
+   -[]  We also wanted to highlight some of personal projects by adding them into the submission and demonstration and presentation. These include **NFT42, InfiNFT, Machi X, MetaFactory, X5Engine, Web3vm and LexDAO**.
 
 ### Our main focus is the NFT space.
 ![](https://i.imgur.com/TujJIpN.png)
 
-   -[]  We are going to deliver these application in a foorm of a digital vending machine a Web3 Vending Machine (Web3vm); one that provide self-served smart-contracts, ones that serve simple, but important tools of a decentralized web.
+   -[]  We are going to deliver these application in a form of a digital vending machine a Web3 Vending Machine (Web3vm); one that provide self-served smart-contracts, ones that serve simple, but important tools of a decentralized web.
 
    -[]  With Web3 technologies like IPFS, libp2p, and Ethereum the sum may be greater than its parts.  Take for example CrytoVoxels a 3D metaverse and digital playground. CrytoVoxels extends and leverages both IPFS and Ethereum into its core propsition while it has no control or say-so over either technology. But CryptoVoxels has masterfully leveraging features of several technologies where the total user experience becomes much greater and more valuable because of the waythese technologies inter-operate with each othet making underlying experience more valuable and rewarding than a single technology on its own.
 
@@ -312,6 +310,7 @@ Current Timeslot:
 
 ![](https://i.imgur.com/tb39ECJ.png)
 
+![](https://i.imgur.com/fXvLLpc.png)
 
     
 ## Notes
