@@ -12,6 +12,11 @@ Monday August 10th, 12:45pm EST
 
 [(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
+Longer Form Demo - no voiceover
+https://vimeo.com/445390419
+
+[](https://vimeo.com/445390419)
+
 
 # HACKFS 2020
  
@@ -34,20 +39,6 @@ Monday August 10th, 12:45pm EST
 | claimdeployer     | https://claimdeployer.linchpin.web3bits.com     | 0x18505155a3ac174a9f3148a12b1d8fa18d2db113     |
 | claimdashboard     | https://claimdashboard.linchpin.web3bits.com	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
 
-
-
-executable subdomain	*.web3bits.com	registered smarcontract
-linchpin main resource page	https://linchpin.web3bits	0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273
-claimmanager	https://claimmanager.linchpin.web3bits.com	0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F
-contentloader	https://contentloader.linchpin.web3bits.com	0x18505155a3ac174a9f3148a12b1d8fa18d2db113
-nftdashboard	https://nftdashboard.linchpin.web3bits.com	0x56cb47517bac9f8ae749b528400355423d24f037
-dashboard	https://dashboard.linchpin.web3bits.com	0x8a9a83770cf927c1913253f55249cc795da1bdfa
-mint	https://mint.linchpin.web3bits.com	0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)
-wearables	https://wearables.linchpin.web3bits.com	0xa58b5224e2fd94020cb2837231b2b0e4247301a6
-cryptovoxellease	https://cryptovoxellease.linchpin.web3bits.com	0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d
-users	https://users.linchpin.web3bits.com	0x4a7F138e31186344b607D0f0b7608a9D83f80aD2
-claimdeployer	https://claimdeployer.linchpin.web3bits.com	0x18505155a3ac174a9f3148a12b1d8fa18d2db113
-claimdashboard	https://claimdashboard.linchpin.web3bits.com	0x8a9a83770cf927c1913253f55249cc795da1bdfa
 
 
 registered smartcontracts
