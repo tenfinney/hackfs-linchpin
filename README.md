@@ -1,27 +1,98 @@
-tags: Project HackFS-linchpin : Working Group Notes
+tags: Project HackFS-linchpin : Final Submission Notes
 
 
-# Open Developer Call - 07/16/2020
+# Final Submission 08/06/2020
 
 ## Info:
 
-Current Timeslot: 
-5:00 PM to 7:00 PM CET
-11:00 AM - 1:00 PM EST
-8:00 AM - 10:00 AM PST 
-
-
+Current Judging Timeslot: 
+Monday August 10th, 12:45pm EST 
 
 [(Location Video/Screenshare:)] [https://us02web.zoom.us/j/6966768498](https://us02web.zoom.us/j/6966768498)
 
-[(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=N@306E,105S](https://www.cryptovoxels.com/play?coords=N@306E,105S)
+[(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
 
 # HACKFS 2020
  
-# PROJECT: Linchpin
+# PROJECT: Linchpin - tools for managing CIDs on IPFS and the public Ethereum blockchain.
  
 #### Bridging IPFS and Ethereum using PowerGate, FileCoin, Buckets, Unlock, libp2p, 3Box, ENS domains, Fleek and Pinata presented in the CryptoVoxel metaverse. 
+
+
+executable subdomain	*.web3bits.com	registered smarcontract
+linchpin main resource page	https://linchpin.web3bits	0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273
+claimmanager	https://claimmanager.linchpin.web3bits.com	0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F
+contentloader	https://contentloader.linchpin.web3bits.com	0x18505155a3ac174a9f3148a12b1d8fa18d2db113
+nftdashboard	https://nftdashboard.linchpin.web3bits.com	0x56cb47517bac9f8ae749b528400355423d24f037
+dashboard	https://dashboard.linchpin.web3bits.com	0x8a9a83770cf927c1913253f55249cc795da1bdfa
+mint	https://mint.linchpin.web3bits.com	0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)
+wearables	https://wearables.linchpin.web3bits.com	0xa58b5224e2fd94020cb2837231b2b0e4247301a6
+cryptovoxellease	https://cryptovoxellease.linchpin.web3bits.com	0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d
+users	https://users.linchpin.web3bits.com	0x4a7F138e31186344b607D0f0b7608a9D83f80aD2
+claimdeployer	https://claimdeployer.linchpin.web3bits.com	0x18505155a3ac174a9f3148a12b1d8fa18d2db113
+claimdashboard	https://claimdashboard.linchpin.web3bits.com	0x8a9a83770cf927c1913253f55249cc795da1bdfa
+
+
+registered smartcontracts
+--------------------------
+0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273
+0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F
+0x18505155a3ac174a9f3148a12b1d8fa18d2db113
+0x56cb47517bac9f8ae749b528400355423d24f037
+0x8a9a83770cf927c1913253f55249cc795da1bdfa
+0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)
+0xa58b5224e2fd94020cb2837231b2b0e4247301a6
+0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d
+0x4a7F138e31186344b607D0f0b7608a9D83f80aD2
+0x18505155a3ac174a9f3148a12b1d8fa18d2db113
+0x8a9a83770cf927c1913253f55249cc795da1bdfa
+
+
+
+live testing-subdomains
+-----------------------
+*.web3bits.com
+https://linchpin.web3bits
+https://claimmanager.linchpin.web3bits.com
+https://contentloader.linchpin.web3bits.com
+https://nftdashboard.linchpin.web3bits.com
+https://dashboard.linchpin.web3bits.com
+https://mint.linchpin.web3bits.com
+https://wearables.linchpin.web3bits.com
+https://cryptovoxellease.linchpin.web3bits.com
+https://users.linchpin.web3bits.com
+https://claimdeployer.linchpin.web3bits.com
+https://claimdashboard.linchpin.web3bits.com
+
+executable subdomain
+----------------------
+linchpin main resource page
+claimmanager
+contentloader
+nftdashboard
+dashboard
+mint
+wearables
+cryptovoxellease
+users
+claimdeployer
+claimdashboard
+
+
+
+
+
+NOTE TO JUDGES:  The Bootstrap React Components and NPM packages used are avaiable upon request.  We try to host everything on-chain and on IPFS nodes and Github is considered a redundancy.
+
+
+
+
+
+WORKING NOTES: vvvvvvvv
+--------------------
+
+
 
 # Buckets or Threads? Served Hot or Cold? Naked or Cloaked? Content Restricted or Open Gateway? 
 
