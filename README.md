@@ -12,11 +12,11 @@ Monday August 10th, 12:45pm EST
 
 [(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
-Hype video - presentation with Flyover audio - 7-minutes no voiceover. includes https://vimeo.com/445652498
-https://vimeo.com/445652498[](https://vimeo.com/445652498)
+Hype video - presentation with Flyover audio - 7-minutes no voiceover. includes bonus Swag0x intro flythrough
+https://vimeo.com/445652498
 
-Longer Form Demo - no voiceover https://vimeo.com/445652498
-https://vimeo.com/445390419[](https://vimeo.com/445390419)
+Longer Form Demo - no voiceover 
+https://vimeo.com/445652498
 
 
 
