@@ -4,24 +4,23 @@ tags: Project HackFS-linchpin : Final Submission Notes
 # Final Submission 08/06/2020
 
 ## Info:
-
 Current Judging Timeslot: 
 Monday August 10th, 12:45pm EST 
 
-[(Location Video/Screenshare:)] [https://us02web.zoom.us/j/6966768498](https://us02web.zoom.us/j/6966768498)
 
-[(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
+#### Location Video/Screenshare: [https://us02web.zoom.us/j/6966768498](https://us02web.zoom.us/j/6966768498)
 
-
-4-minute HackFS Project linchpin demo with voiceover https://www.youtube.com/watch?v=pGnBH00n2uo&feature=youtu.be
-
-Hype video - presentation with Flyover audio - 7-minutes no voiceover. includes bonus Swag0x intro flythrough
-https://vimeo.com/445652498
-
-Longer Form Demo - no voiceover 
-https://vimeo.com/445652498
+#### CryptoVoxels (2D VR): [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
 
+#### 4-minute HackFS Project linchpin demo with voiceover: https://www.youtube.com/watch?v=pGnBH00n2uo&feature=youtu.be
+
+#### Hype video - presentation with Flyover audio - HackFS linchpin Longer Form Demo - 7-minutes no voiceover. includes bonus Swag0x intro flythrough: https://vimeo.com/445652498
+
+
+#### Chill video - presentation with Hungry 5 audio - HackFS linchpin Longer Form Demo - 7-minutes no voiceover. includes bonus Swag0x intro flythrough:  https://vimeo.com/445390419
+
+#### Project linchpin HomePage: [https://i.imgur.com/onjO2ee.png](https://i.imgur.com/onjO2ee.png)
 
 
 # HACKFS 2020
@@ -95,12 +94,7 @@ claimdashboard
 
 
 
-
-
 ### NOTE TO JUDGES:  The Bootstrap React Components and NPM packages used are avaiable upon request.  We try to host everything on-chain and on IPFS nodes and Github is considered a redundancy.
-
-
-
 
 ## NodeJS React Bootstrap Documentation and Tutorial
 
