@@ -1,16 +1,18 @@
 tags: Project HackFS-linchpin : Final Submission Notes
 
 
-# Final Submission 08/06/2020
+# HackFS Project linchpin 
+Final Submission 08/06/2020
 
-## Info:
-Current Judging Timeslot: 
-Monday August 10th, 12:45pm EST 
+## Project Info:
+
+
+#### Current Judging Timeslot: Monday August 10th, 12:45pm EST 
 
 
 #### Location Video/Screenshare: [https://us02web.zoom.us/j/6966768498](https://us02web.zoom.us/j/6966768498)
 
-#### CryptoVoxels (2D VR): [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
+#### CryptoVoxels (3D-Virtual Reality): [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
 
 #### 4-minute HackFS Project linchpin demo with voiceover: https://www.youtube.com/watch?v=pGnBH00n2uo&feature=youtu.be
@@ -23,8 +25,14 @@ Monday August 10th, 12:45pm EST
 #### Project linchpin HomePage: [https://i.imgur.com/onjO2ee.png](https://i.imgur.com/onjO2ee.png)
 
 
+---
+
+
 # HACKFS 2020
  
+
+---
+
 # PROJECT: Linchpin - tools for managing CIDs on IPFS and the public Ethereum blockchain.
  
 #### Bridging IPFS and Ethereum using PowerGate, FileCoin, Buckets, Unlock, libp2p, 3Box, ENS domains, Fleek and Pinata presented in the CryptoVoxel metaverse. 
@@ -64,18 +72,20 @@ registered smartcontracts
 
 live testing-subdomains
 -----------------------
-*.web3bits.com
-https://linchpin.web3bits
-https://claimmanager.linchpin.web3bits.com
-https://contentloader.linchpin.web3bits.com
-https://nftdashboard.linchpin.web3bits.com
-https://dashboard.linchpin.web3bits.com
-https://mint.linchpin.web3bits.com
-https://wearables.linchpin.web3bits.com
-https://cryptovoxellease.linchpin.web3bits.com
-https://users.linchpin.web3bits.com
-https://claimdeployer.linchpin.web3bits.com
-https://claimdashboard.linchpin.web3bits.com
+| *.web3bits.com| 
+| -------- |
+| https://linchpin.web3bits     |    
+| https://claimmanager.linchpin.web3bits.com     | 
+| https://contentloader.linchpin.web3bits.com	     | 
+| https://nftdashboard.linchpin.web3bits.com     | 
+| https://dashboard.linchpin.web3bits.com     | 
+| https://mint.linchpin.web3bits.com     | 
+| https://wearables.linchpin.web3bits.com     | 
+| https://cryptovoxellease.linchpin.web3bits.com     | 
+| https://users.linchpin.web3bits.com     | 
+| https://claimdeployer.linchpin.web3bits.com     | 
+| https://claimdashboard.linchpin.web3bits.com	     | 
+
 
 
 executable subdomain
@@ -133,32 +143,44 @@ We provide all the necessary CSS resources. So, to immediately change or get sta
     Go to your file project (where you've unzipped the product)
     Run in terminal
 
-    npm install
+``` 
+        npm install
+```
 
     Then run
+```
+        npm start
+```
 
-    npm start
+
 
     Or you can simply run
 
+```
     npm run install:clean
+```
 
     which will install node_modules and also will start your project.
     If you have an error something containing
 
     Module not found
-
     you need to do the following
 
+```
     npm install --g cross-env
+```
 
     then change the script, for example the start script from
 
+```
     "start": "react-scripts start",
+```
 
     to
 
-    "start": "NODE_PATH=./src react-scripts start",
+```
+"start": "NODE_PATH=./src react-scripts start",
+```
 
     The same should be done with any other script that has the above error.
     If you have an error containing
@@ -169,22 +191,26 @@ We provide all the necessary CSS resources. So, to immediately change or get sta
     (Optional) You can create a new react application like this
         Run in terminal
 
+```
         npm install -g create-react-app
+```
 
         Go to the folder where you want to create your app
         Run in terminal
-
+```
         create-react-app your-app-name
-
+```
         Navigate to your-app-name
         Run in terminal
-
+```
         npm start
-
+```
         And after this, you can copy and paste anything that you want from our product (the most important is the src/assets which has all of our style, fonts and images).
         More information → create-react-app https://github.com/facebookincubator/create-react-app
-    Navigate to https://localhost:3000
-    More information → react https://reactjs.org/docs/installation.html
+
+Navigate to https://localhost:3000
+
+More information → react https://reactjs.org/docs/installation.html
 
 
 
