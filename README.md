@@ -38,6 +38,13 @@ Final Submission 08/06/2020
 #### Bridging IPFS and Ethereum using PowerGate, FileCoin, Buckets, Unlock, libp2p, 3Box, ENS domains, Fleek and Pinata presented in the CryptoVoxel metaverse. 
 
 
+#### MAIN APPLICATIONS FOR JUDGING THREADDB AND CIDS TO ETHEREUM AND BACK.
+| claimdashboard     | https://dashboard.web3bits.com/	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
+| mint     | https://mint.linchpin.web3bits.com     | 0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)     |
+
+
+
+#### COMPLETE LIST OF LINCHPINS
 | executable subdomain | *.web3bits.com| registered smarcontract |
 | -------- | -------- | -------- |
 | linchpin main page     | https://linchpin.web3bits     | 0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273     |
@@ -50,7 +57,7 @@ Final Submission 08/06/2020
 | cryptovoxellease     | https://cryptovoxellease.linchpin.web3bits.com     | 0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d     |
 | users     | https://users.linchpin.web3bits.com     | 0x4a7F138e31186344b607D0f0b7608a9D83f80aD2     |
 | claimdeployer     | https://claimdeployer.linchpin.web3bits.com     | 0x18505155a3ac174a9f3148a12b1d8fa18d2db113     |
-| claimdashboard     | https://linchpin.web3bits.com/	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
+| claimdashboard     | https://dashboard.web3bits.com/	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
 
 
 registered smartcontracts
@@ -84,7 +91,7 @@ live testing-subdomains
 | https://cryptovoxellease.linchpin.web3bits.com     | 
 | https://users.linchpin.web3bits.com     | 
 | https://claimdeployer.linchpin.web3bits.com     | 
-| https://linchpin.web3bits.com/	     | 
+| https://dashboard.web3bits.com/	     | 
 
 
 
