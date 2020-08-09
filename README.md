@@ -12,6 +12,9 @@ Monday August 10th, 12:45pm EST
 
 [(CryptoVoxels (2D VR):)] [https://www.cryptovoxels.com/play?coords=W@308E,103S](https://www.cryptovoxels.com/play?coords=W@308E,103S)
 
+
+4-minute HackFS Project linchpin demo with voiceover https://www.youtube.com/watch?v=pGnBH00n2uo&feature=youtu.be
+
 Hype video - presentation with Flyover audio - 7-minutes no voiceover. includes bonus Swag0x intro flythrough
 https://vimeo.com/445652498
 
@@ -43,21 +46,21 @@ https://vimeo.com/445652498
 | claimdashboard     | https://claimdashboard.linchpin.web3bits.com	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
 
 
-
 registered smartcontracts
 --------------------------
-0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273
-0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F
-0x18505155a3ac174a9f3148a12b1d8fa18d2db113
-0x56cb47517bac9f8ae749b528400355423d24f037
-0x8a9a83770cf927c1913253f55249cc795da1bdfa
-0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)
-0xa58b5224e2fd94020cb2837231b2b0e4247301a6
-0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d
-0x4a7F138e31186344b607D0f0b7608a9D83f80aD2
-0x18505155a3ac174a9f3148a12b1d8fa18d2db113
-0x8a9a83770cf927c1913253f55249cc795da1bdfa
-
+| executable subdomain | registered smarcontract |
+| -------- | -------- |
+| linchpin main page     | 0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273     |
+| claimmanager     | 0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F     |
+| contentloader     | 0x18505155a3ac174a9f3148a12b1d8fa18d2db113     |
+| nftdashboard     | 0x56cb47517bac9f8ae749b528400355423d24f037     |
+| dashboard     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
+| mint     | 0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)     |
+| wearables     |  0xa58b5224e2fd94020cb2837231b2b0e4247301a6     |
+| cryptovoxellease     | 0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d     |
+| users     | 0x4a7F138e31186344b607D0f0b7608a9D83f80aD2     |
+| claimdeployer     |  0x18505155a3ac174a9f3148a12b1d8fa18d2db113     |
+| claimdashboard     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
 
 
 live testing-subdomains
@@ -75,9 +78,10 @@ https://users.linchpin.web3bits.com
 https://claimdeployer.linchpin.web3bits.com
 https://claimdashboard.linchpin.web3bits.com
 
+
 executable subdomain
 ----------------------
-linchpin main resource page
+linchpin_homepage
 claimmanager
 contentloader
 nftdashboard
@@ -93,7 +97,197 @@ claimdashboard
 
 
 
-NOTE TO JUDGES:  The Bootstrap React Components and NPM packages used are avaiable upon request.  We try to host everything on-chain and on IPFS nodes and Github is considered a redundancy.
+### NOTE TO JUDGES:  The Bootstrap React Components and NPM packages used are avaiable upon request.  We try to host everything on-chain and on IPFS nodes and Github is considered a redundancy.
+
+
+
+
+## NodeJS React Bootstrap Documentation and Tutorial
+
+
+### Short Description and Usage
+
+Black Dashboard React is a beautiful resource built over Bootstrap 4, React (create-react-app) https://getbootstrap.com/ and reactstrap https://reactstrap.github.io/ to allow you to create powerful and beautiful dashboards. We have redesigned all the usual components in Bootstrap to make it look flat, minimalist and easy to use.
+
+Using the dashboard is very simple, but it does require you to understand basic JavaScript functions, react and reactstrap. To get the desired effect you will need to integrate react components and JS plugins that take a little bit more effort. Down below we list all the files you need to include inside the application to get going.
+
+
+### License
+MIT LICENSE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+### Getting Started
+
+The Black Dashboard React is built on top of reactstrap (Bootstrap 4), so you can safely use it on your existing or new Reactstrap project. No line of code from Bootstrap 4 was changed, so you don't have to worry about undesired effects in your work.
+
+We provide all the necessary CSS resources. So, to immediately change or get started with our design, include the src/assets/scss/black-dashboard-react.css in your template. Your project will get the new look.
+
+
+### Local Development
+
+    Install NodeJs from NodeJs Official Page https://nodejs.org/en/
+    Select the React bootstrap template and download the .zip file
+    Unzip the downloaded file to a folder in your computer
+    Open Terminal
+    Go to your file project (where you've unzipped the product)
+    Run in terminal
+
+    npm install
+
+    Then run
+
+    npm start
+
+    Or you can simply run
+
+    npm run install:clean
+
+    which will install node_modules and also will start your project.
+    If you have an error something containing
+
+    Module not found
+
+    you need to do the following
+
+    npm install --g cross-env
+
+    then change the script, for example the start script from
+
+    "start": "react-scripts start",
+
+    to
+
+    "start": "NODE_PATH=./src react-scripts start",
+
+    The same should be done with any other script that has the above error.
+    If you have an error containing
+
+    props.history of undefined
+
+    (this can happen when you integrate our project with another one) then you need to make the changes found here
+    (Optional) You can create a new react application like this
+        Run in terminal
+
+        npm install -g create-react-app
+
+        Go to the folder where you want to create your app
+        Run in terminal
+
+        create-react-app your-app-name
+
+        Navigate to your-app-name
+        Run in terminal
+
+        npm start
+
+        And after this, you can copy and paste anything that you want from our product (the most important is the src/assets which has all of our style, fonts and images).
+        More information → create-react-app https://github.com/facebookincubator/create-react-app
+    Navigate to https://localhost:3000
+    More information → react https://reactjs.org/docs/installation.html
+
+
+
+### Live Production
+
+    tutorial for deploying on heroku https://blog.heroku.com/deploying-react-with-zero-configuration
+    tutorial for deploying on github pages and surge https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
+    tutorial for deploying on S3 and CloudFront https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af
+
+
+
+### CSS
+
+To get a good stylish look import these styles inside the application:
+
+import "assets/scss/black-dashboard-react.scss";
+import "assets/css/nucleo-icons.css";
+
+
+
+### Fonts and Icons
+
+If you've started a new project and are copying our product there, be sure to add the following lines of code inside your .html file:
+
+<!--     Fonts and icons     -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+
+
+
+### Bootstrap File Structure
+
+black-dashboard-react
+.
+├── package.json
+├── CHANGELOG.md
+├── ISSUE_TEMPLATE.md
+├── LICENSE.md
+├── README.md
+├── Documentation
+│   └── documentation.html
+├── github-assets
+│   └── react.svg
+├── public
+│   ├── index.html
+│   └── manifest.json
+└── src
+    ├── index.js
+    ├── logo-white.svg
+    ├── logo.svg
+    ├── routes.js
+    ├── assets
+    │   ├── css
+    │   ├── demo
+    │   ├── fonts
+    │   ├── img
+    │   └── scss
+    │       ├── black-dashboard-react
+    │       │   ├── bootstrap
+    │       │   │   ├── mixins
+    │       │   │   └── utilities
+    │       │   ├── custom
+    │       │   │   ├── cards
+    │       │   │   ├── mixins
+    │       │   │   ├── utilities
+    │       │   │   └── vendor
+    │       └── black-dashboard-react.scss
+    ├── components
+    │   ├── FixedPlugin
+    │   │   └── FixedPlugin.js
+    │   ├── Footer
+    │   │   └── Footer.js
+    │   ├── Navbars
+    │   │   ├── AdminNavbar.js
+    │   │   └── RTLNavbar.js
+    │   └── Sidebar
+    │       └── Sidebar.js
+    ├── layouts
+    │   ├── Admin
+    │   │   └── Admin.js
+    │   └── RTL
+    │       └── RTL.js
+    ├── variables
+    │   └── charts.js
+    └── views
+        ├── Dashboard.js
+        ├── Icons.js
+        ├── Map.js
+        ├── Notifications.js
+        ├── Rtl.js
+        ├── TableList.js
+        ├── Typography.js
+        └── UserProfile.js
+
+
+
+
 
 
 
