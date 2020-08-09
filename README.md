@@ -24,7 +24,9 @@ Final Submission 08/06/2020
 
 #### Project linchpin HomePage: [https://i.imgur.com/onjO2ee.png](https://i.imgur.com/onjO2ee.png)
 
-#### Project linchpin Code: [https://github.com/tenfinney/linchpin-claim-dashboard](https://github.com/tenfinney/linchpin-claim-dashboard)
+#### Project linchpin ClaimDashboard Code: [https://github.com/tenfinney/linchpin-claim-dashboard](https://github.com/tenfinney/linchpin-claim-dashboard)
+
+#### Project linchpin NFT Mint and Manage Code: [https://github.com/tenfinney/linchpin-nft-mint-and-manage](https://github.com/tenfinney/linchpin-nft-mint-and-manage)
 
 
 ---
