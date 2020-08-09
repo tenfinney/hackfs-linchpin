@@ -39,8 +39,11 @@ Final Submission 08/06/2020
 
 
 #### MAIN APPLICATIONS FOR JUDGING THREADDB AND CIDS TO ETHEREUM AND BACK.
-| claimdashboard     | https://dashboard.web3bits.com/	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
-| mint     | https://mint.linchpin.web3bits.com     | 0x7f0b7157efb856791c2be3189b501ae88c3e23e6 (rinkeby)     |
+| executable subdomain | *.web3bits.com|
+| -------- | -------- | 
+| mint     | https://mint.linchpin.web3bits.com     | 
+| claimdashboard     | https://claimdashboard.web3bits.com	     	     |
+
 
 
 
@@ -57,7 +60,7 @@ Final Submission 08/06/2020
 | cryptovoxellease     | https://cryptovoxellease.linchpin.web3bits.com     | 0x609fee2c94076d2b44f0b1bdb9ebb33877355c5d     |
 | users     | https://users.linchpin.web3bits.com     | 0x4a7F138e31186344b607D0f0b7608a9D83f80aD2     |
 | claimdeployer     | https://claimdeployer.linchpin.web3bits.com     | 0x18505155a3ac174a9f3148a12b1d8fa18d2db113     |
-| claimdashboard     | https://dashboard.web3bits.com/	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
+| dashboard     | https://claimdashboard.web3bits.com	     | 0x8a9a83770cf927c1913253f55249cc795da1bdfa     |
 
 
 registered smartcontracts
@@ -91,7 +94,7 @@ live testing-subdomains
 | https://cryptovoxellease.linchpin.web3bits.com     | 
 | https://users.linchpin.web3bits.com     | 
 | https://claimdeployer.linchpin.web3bits.com     | 
-| https://dashboard.web3bits.com/	     | 
+| https://claimdashboard.web3bits.com	     	     | 
 
 
 
