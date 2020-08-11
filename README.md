@@ -69,7 +69,7 @@ Final Submission 08/06/2020
 
 registered smartcontracts
 --------------------------
-| executable subdomain | registered smarcontract |
+| executable subdomain | registered smart contract |
 | -------- | -------- |
 | linchpin main page     | 0xDF5E21b14CD54ABB2fFd32fA6a33A0cFA86a1273     |
 | claimmanager     | 0x9AdA6Deb70cF2B3ca40E8f082911f82D90A4Bc7F     |
